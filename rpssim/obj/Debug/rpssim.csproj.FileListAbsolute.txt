@@ -1,0 +1,15 @@
+C:\Users\Cody\Source\Repos\rpssim\rpssim\bin\Debug\rpssim.exe.config
+C:\Users\Cody\Source\Repos\rpssim\rpssim\bin\Debug\rpssim.exe
+C:\Users\Cody\Source\Repos\rpssim\rpssim\bin\Debug\rpssim.pdb
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\MainWindow.g.cs
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\App.g.cs
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim_MarkupCompile.cache
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim_MarkupCompile.lref
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\MainWindow.baml
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim.g.resources
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim.Properties.Resources.resources
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim.csproj.GenerateResource.Cache
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim.csproj.CoreCompileInputs.cache
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim.exe
+C:\Users\Cody\Source\Repos\rpssim\rpssim\obj\Debug\rpssim.pdb

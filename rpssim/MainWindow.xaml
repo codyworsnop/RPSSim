@@ -1,0 +1,34 @@
+﻿<Window x:Class="rpssim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:rpssim"
+        mc:Ignorable="d"
+        Title="RPS Simulator" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            
+            <Label Margin="10" FontSize="20" FontWeight="Bold" Content="Configuration"/>
+            <Label Margin="10, 0" Content="Number of simulations to run:"/>
+            <TextBox Margin="10, 5" Text="{Binding SimRunAmount, Mode=TwoWay}"/>
+
+            <Button Margin="10" Width="100" Height="50" Content="Run" Click="RunSim"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <Label Margin="10" FontSize="20" FontWeight="Bold" Content="Results"/>
+
+            <Grid>
+
+                <TextBlock Margin="10" Text="{Binding OutputConsole}" TextWrapping="Wrap" Width="250" Height="250"/>
+            </Grid>
+
+        </StackPanel>
+    </Grid>
+</Window>
